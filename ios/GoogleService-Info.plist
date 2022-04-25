@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70330356898-40sqtrfmqi3i2tl607q9p8h2n0io6ov2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70330356898-40sqtrfmqi3i2tl607q9p8h2n0io6ov2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>70330356898-0epqfo7e547fbbr6dbl00cvov1eniml1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJxnJaSY_Quu8ZM-rpINO3y0zdPzSZE_E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70330356898</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alexapps.cvSports</string>
+	<key>PROJECT_ID</key>
+	<string>cvsport-59fa4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cvsport-59fa4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70330356898:ios:9f03ce35c461698ebf33fb</string>
+</dict>
+</plist>
